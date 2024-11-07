@@ -1,3 +1,3 @@
 # Aussie-Threads-Sales-Analysis
 Data Analysis presented to a Sales Manager at Aussie Threads
-![](Sales-Analysis-Dashboard.png)
+![](Aussie-Threads-Sales-Analysis/assets/Sales-Analysis-Dashboard.png)
