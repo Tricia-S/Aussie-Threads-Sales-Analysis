@@ -35,7 +35,7 @@ Data Analysis presented to a Sales Manager at Aussie Threads
 
 Company Background
 
-![image](https://github.com/user-attachments/assets/00f16e13-533f-4319-a660-e3159ae12905)
+![image](https://github.com/user-attachments/assets/440fa781-0245-4d32-844a-e565f63445ce)
 
 Aussie Threads is a newly established online apparel e-commerce shop that has quickly become a rising star in Australia's fashion scene. Founded 10 months ago in 2023, the company has already made significant strides in establishing itself as a go-to destination for stylish, affordable, and comfortable clothing. With a strong emphasis on quality, sustainability, and customer satisfaction, Aussie Threads is capturing the attention of fashion-forward Australians across the country.
 
