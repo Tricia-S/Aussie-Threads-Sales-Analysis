@@ -37,7 +37,7 @@ Company Background
 
 ![image](https://github.com/user-attachments/assets/440fa781-0245-4d32-844a-e565f63445ce)
 
-Aussie Threads is a newly established online apparel e-commerce shop that has quickly become a rising star in Australia's fashion scene. Founded 10 months ago in 2023, the company has already made significant strides in establishing itself as a go-to destination for stylish, affordable, and comfortable clothing. With a strong emphasis on quality, sustainability, and customer satisfaction, Aussie Threads is capturing the attention of fashion-forward Australians across the country.
+Aussie Threads is a newly established online apparel e-commerce shop that has quickly become a rising star in Australia's fashion scene. Founded 10 months ago in 2021, the company has already made significant strides in establishing itself as a go-to destination for stylish, affordable, and comfortable clothing. With a strong emphasis on quality, sustainability, and customer satisfaction, Aussie Threads is capturing the attention of fashion-forward Australians across the country.
 
 The sales manager at Aussie Threads requires a comprehensive and interactive dashboard to help with data-driven decision-making. The current lack of easily accessible and actionable insights from the sales and inventory data is hindering effective planning and performance tracking. As a data analyst, my task is to apply the Design Thinking process to better understand the sales manager’s needs, analyze the available data, and create a solution that provides clear, visual insights that can drive business decisions.
 
